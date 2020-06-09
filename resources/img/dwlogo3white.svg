@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="644" height="260" viewBox="0 0 644 260">
+  <g id="Darren_Withey_Logo_2" data-name="Darren Withey Logo 2" transform="translate(-191.551 -400)">
+    <g id="Group_1" data-name="Group 1" transform="translate(395.698 400)">
+      <text id="DARREN" transform="translate(-0.147 102)" fill="#fff" font-size="102" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">DARREN</tspan></text>
+      <text id="WITHEY" transform="translate(4.853 200)" fill="#fff" font-size="103" font-family="Avenir-Heavy, Avenir" font-weight="800" letter-spacing="0.045em"><tspan x="0" y="0">WITHEY</tspan></text>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(191.551 626.798)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="644" height="33" transform="translate(0 0.202)" fill="#ca2200"/>
+      <text id="PROFESSIONAL_SQUASH_COACH" data-name="PROFESSIONAL SQUASH COACH" transform="translate(145 23.202)" fill="#fff" font-size="21" font-family="Avenir-Black, Avenir" font-weight="800" letter-spacing="0.025em"><tspan x="0" y="0">PROFESSIONAL SQUASH COACH</tspan></text>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(191.551 418.559)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="91.5" cy="91.5" r="91.5" transform="translate(0 0.441)" fill="#464646"/>
+      <path id="Intersection_1" data-name="Intersection 1" d="M0,58.381a91.832,91.832,0,0,1,2.82-22.65A91.633,91.633,0,0,1,164.18,114.268,91.593,91.593,0,0,1,0,58.381Z" transform="translate(16 0.441)" fill="#575757"/>
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0 0.441)" fill="none" stroke="#222" stroke-width="8">
+        <circle cx="91.5" cy="91.5" r="91.5" stroke="none"/>
+        <circle cx="91.5" cy="91.5" r="87.5" fill="none"/>
+      </g>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="7.648" cy="6.556" rx="7.648" ry="6.556" transform="translate(75.104 39.465) rotate(-34)" fill="#fff500"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="7" cy="8" rx="7" ry="8" transform="translate(110 41.441)" fill="#fff500"/>
+    </g>
+  </g>
+</svg>
