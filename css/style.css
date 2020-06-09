@@ -707,9 +707,9 @@ a:active {
 	margin-top: 5px;
 }
 
-.coaching-sidebar img {
-	width: 50%;
+.coaching-logo img {
 	object-fit: cover;
+	width: 50%;
 }
 
 .coaching-info-container1 {
