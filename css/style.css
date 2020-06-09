@@ -708,7 +708,6 @@ a:active {
 }
 
 .coaching-logo img {
-	object-fit: cover;
 	width: 50%;
 }
 
@@ -778,7 +777,7 @@ a:active {
 		justify-content: space-around;
 	}
 
-	.coaching-sidebar img {
+	.coaching-logo img {
 		width: 80%;
 	}
 }
