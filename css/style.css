@@ -708,7 +708,8 @@ a:active {
 }
 
 .coaching-logo img {
-	width: 50%;
+	width: 250px;
+	height: 250px;
 }
 
 .coaching-info-container1 {
@@ -778,7 +779,8 @@ a:active {
 	}
 
 	.coaching-logo img {
-		width: 80%;
+		width: 250px;
+		height: 250px;
 	}
 }
 
