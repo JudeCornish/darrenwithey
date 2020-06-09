@@ -682,6 +682,10 @@ a:active {
 	flex-direction: column;
 }
 
+.coaching-main h2 {
+	margin-bottom: 2vh;
+}
+
 .coaching-logo {
 	width: 100%;
 	display: flex;
@@ -737,16 +741,13 @@ a:active {
 	margin-bottom: 5vh;
 }
 
-.coaching-courts-row-2 {
-	display: flex;
-	justify-content: space-between;
-	margin-top: none;
-	width: 102.5%;
+.coaching-courts-row-2 h2 {
+	margin-bottom: 2vh;
 }
 
 .coaching-courts-row-2 img {
-	width: 48%;
 	object-fit: cover;
+	width: 100%;
 }
 
 .coaching-courts-row-3 img {
