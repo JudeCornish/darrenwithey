@@ -25,9 +25,9 @@ $(".wall").jaliswall({
 $(function () {
 	$(".responsive").slick({
 		infinite: true,
-		speed: 2000,
+		speed: 1000,
 		autoplay: true,
-		autoplayspeed: 10000,
+		autoplayspeed: 20000,
 		slidesToShow: 3,
 		slidesToScroll: 1,
 		arrows: true,
