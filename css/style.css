@@ -101,7 +101,7 @@ nav a {
 
 .logo-container {
 	height: 8vh;
-	margin-right: 50px;
+	margin-right: 40px;
 	z-index: 999;
 	display: flex;
 	line-height: 8vh;
@@ -110,8 +110,7 @@ nav a {
 }
 
 .logo-container img {
-	height: 70%;
-	object-fit: fill;
+	height: 60%;
 }
 
 .nav-list {
