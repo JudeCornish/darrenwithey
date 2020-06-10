@@ -111,6 +111,7 @@ nav a {
 
 .logo-container img {
 	height: 70%;
+	object-fit: fill;
 }
 
 .nav-list {
