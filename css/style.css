@@ -146,6 +146,7 @@ nav a {
 nav .btn {
 	line-height: 4vh;
 	transition: all 650ms;
+	color: white;
 }
 
 .btn:active {
@@ -1626,5 +1627,9 @@ footer a {
 
 	nav.active .nav-list {
 		display: flex;
+	}
+
+	nav .btn {
+		color: white;
 	}
 }
