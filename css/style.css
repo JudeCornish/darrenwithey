@@ -297,14 +297,14 @@ li.move-right {
 		justify-content: space-around;
 	}
 
+	.landing-logoimg {
+		max-width: 600px;
+		min-width: 400px;
+	}
+
 	.landing-portrait {
 		position: relative;
 		width: 50%;
-	}
-
-	.landing-logo img {
-		max-width: 600px;
-		min-width: 400px;
 	}
 }
 
