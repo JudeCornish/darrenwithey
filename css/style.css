@@ -704,6 +704,10 @@ a:active {
 	color: var(--main-red);
 }
 
+.withey-info-container {
+	margin-bottom: 1vh;
+}
+
 .coaching-info-line {
 	line-height: 2;
 	display: flex;
@@ -920,6 +924,18 @@ a:active {
 	.fixtures-table tbody tr:last-of-type {
 		border-bottom: 1px solid #dddddd;
 	}
+}
+
+.certificates img {
+	width: 100%;
+}
+
+.certificate-top {
+	margin-bottom: 2.5vh;
+}
+.certificate {
+	margin-top: 2.5vh;
+	margin-bottom: 2.5vh;
 }
 
 /* GALLERY CONFIG */
