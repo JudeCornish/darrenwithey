@@ -746,8 +746,13 @@ a:active {
 	margin-bottom: 5vh;
 }
 
+.coaching-courts-row-2 {
+	margin-top: 5vh;
+}
+
 .coaching-courts-row-2 h2 {
 	margin-bottom: 2vh;
+	margin-left: 2%;
 }
 
 .coaching-courts-row-2 img {
