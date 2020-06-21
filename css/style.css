@@ -269,6 +269,10 @@ li.move-right {
 	line-height: 1.4;
 }
 
+.landing-header p {
+	font-size: 110%;
+}
+
 .landing-header img {
 	width: 95%;
 	margin-bottom: 3vh;
