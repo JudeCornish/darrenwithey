@@ -245,20 +245,6 @@ li.move-right {
 	overflow-x: hidden;
 }
 
-.landing-video-background {
-	width: 100%;
-	object-fit: cover;
-}
-
-.landing-video-background video {
-	height: 100%;
-	width: 100%;
-	z-index: -3;
-	opacity: 0.1;
-	position: absolute;
-	object-fit: cover;
-}
-
 .landing-header {
 	position: absolute;
 	left: 8%;
@@ -570,10 +556,6 @@ a:active {
 
 /* ACHIEVEMENTS */
 
-#achievements img {
-	width: 100%;
-}
-
 .squash-achievements-title h2 {
 	font-size: 200%;
 	margin-bottom: 2vh;
@@ -598,6 +580,17 @@ a:active {
 	margin-top: 5vh;
 	margin-bottom: 2vh;
 	font-size: 140%;
+}
+
+.guinness-certificate {
+	width: 100%;
+	margin-top: 3vh;
+	display: flex;
+}
+
+.guinness-certificate img {
+	width: 60%;
+	margin: 0 auto;
 }
 
 @media screen and (min-width: 800px) {
