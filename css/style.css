@@ -239,53 +239,89 @@ li.move-right {
 #landing {
 	height: 50vh;
 	margin-top: 8vh;
-	background-color: rgb(199, 199, 199);
+	overflow-x: hidden;
+	position: relative;
+	overflow-y: hidden;
 	overflow-x: hidden;
 }
 
-.portrait-wrapper {
-	position: relative;
-	display: flex;
-	background-image: url("/resources/img/withey-landscape.svg");
-	background-size: cover;
-	background-position: center;
+.landing-video-background {
 	width: 100%;
-	z-index: 1;
-	opacity: 1;
-	height: 50vh;
+	object-fit: cover;
 }
 
-.landing-portrait {
-	display: flex;
-	justify-content: center;
+.landing-video-background video {
+	height: 100%;
+	width: 100%;
+	z-index: -3;
+	opacity: 0.1;
 	position: absolute;
-	height: 100%;
-	padding-top: 25px;
-	bottom: 0;
-	width: 100%;
+	object-fit: cover;
 }
 
-.landing-portrait img {
-	height: 100%;
+.landing-header {
+	position: absolute;
+	left: 8%;
+	top: 48%;
+	width: 30%;
+	transform: translateY(-50%);
+	text-align: center;
+	line-height: 1.4;
 }
 
-.landing-logo {
-	display: flex;
-	z-index: 999;
-	display: none;
-	width: 50%;
-	margin-left: 5%;
-	margin-bottom: 5vh;
+.landing-header img {
+	width: 95%;
+	margin-bottom: 3vh;
 }
 
-.landing-logo img {
-	width: 80%;
-	margin: 0 auto;
+.landing-background {
+	position: absolute;
+	height: 50vh;
+	z-index: 0;
+}
+
+.landing-background img {
+	height: 130%;
+}
+
+@media screen and (min-width: 1250px) {
+	.landing-background {
+		right: -10%;
+	}
+	.quest-quote {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 1250px) {
+	.landing-header {
+		display: none;
+	}
+
+	.landing-background {
+		width: 100%;
+		position: relative;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-around;
+	}
+	.landing-background img {
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.landing-background {
+	}
 }
 
 @media screen and (min-width: 750px) {
 	#landing {
-		height: 65vh;
+		height: 70vh;
+	}
+
+	.landing-background {
+		height: 70vh;
 	}
 
 	.portrait-wrapper {
@@ -329,6 +365,11 @@ li.move-right {
 
 .section h2 {
 	margin-bottom: 2vh;
+}
+
+#about {
+	background-color: white;
+	margin-top: 5vh;
 }
 
 #about video {
@@ -399,7 +440,7 @@ a:active {
 	transition: all 500ms;
 }
 
-#other-services video {
+#other-services img {
 	width: 100%;
 }
 
