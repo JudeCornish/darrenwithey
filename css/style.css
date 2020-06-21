@@ -274,6 +274,10 @@ li.move-right {
 	height: 130%;
 }
 
+.quest-quote {
+	margin-bottom: 2vh;
+}
+
 @media screen and (min-width: 1250px) {
 	.landing-background {
 		right: -10%;
@@ -359,7 +363,12 @@ li.move-right {
 
 #about {
 	background-color: white;
-	margin-top: 5vh;
+}
+
+@media screen and (max-width: 600px) {
+	#about {
+		margin-top: 5vh;
+	}
 }
 
 #about video {
