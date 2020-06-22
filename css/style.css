@@ -592,14 +592,14 @@ a:active {
 }
 
 .guinness-certificate {
-	width: 50%;
-	display: flex;
+	width: 100%;
 	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
 }
 
 .guinness-certificate img {
-	width: 100%;
-	margin: 0 auto;
+	width: 50%;
 	margin-top: 2vh;
 }
 
