@@ -592,14 +592,15 @@ a:active {
 }
 
 .guinness-certificate {
-	width: 100%;
-	margin-top: 2vh;
+	width: 50%;
 	display: flex;
+	margin: 0 auto;
 }
 
 .guinness-certificate img {
-	width: 50%;
+	width: 100%;
 	margin: 0 auto;
+	margin-top: 2vh;
 }
 
 @media screen and (min-width: 800px) {
