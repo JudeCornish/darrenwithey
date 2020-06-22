@@ -110,7 +110,7 @@ nav a {
 }
 
 .logo-container img {
-	height: 60%;
+	height: 4vh;
 	padding-right: 20px;
 }
 
@@ -754,17 +754,19 @@ a:active {
 	color: var(--main-red);
 }
 
-.coaching-info-container-img {
-	width: 80%;
+.coaching-info-container {
+	width: 100%;
 	display: flex;
 	justify-content: space-around;
 	margin: 0 auto;
 }
 
-.coaching-info-container-img img {
+.coaching-info-container-img {
+	width: 70%;
+}
+
+.coaching-info-container img {
 	width: 100%;
-	margin-top: 2vh;
-	object-fit: cover;
 }
 
 .withey-info-container {
@@ -994,7 +996,8 @@ a:active {
 	}
 }
 
-.certificates img {
+.certificates img,
+.certificates video {
 	width: 100%;
 }
 
