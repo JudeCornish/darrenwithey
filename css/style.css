@@ -754,6 +754,11 @@ a:active {
 	color: var(--main-red);
 }
 
+.coaching-info-container img {
+	width: 80%;
+	margin-top: 2vh;
+}
+
 .withey-info-container {
 	margin-bottom: 1vh;
 }
