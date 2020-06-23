@@ -27,6 +27,7 @@ $(function () {
 		infinite: true,
 		speed: 1000,
 		autoplay: true,
+		adaptiveHeight: true,
 		autoplayspeed: 15000,
 		slidesToShow: 3,
 		slidesToScroll: 1,
