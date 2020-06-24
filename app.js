@@ -27,7 +27,6 @@ $(function () {
 		infinite: true,
 		speed: 1000,
 		autoplay: true,
-		adaptiveHeight: true,
 		autoplayspeed: 15000,
 		slidesToShow: 3,
 		slidesToScroll: 1,
@@ -58,7 +57,7 @@ $(function () {
 					slidesToShow: 1,
 					slidesToScroll: 1,
 					arrows: false,
-					dots: true,
+					dots: false,
 				},
 			},
 			// You can unslick at a given breakpoint now by adding:
