@@ -1268,11 +1268,19 @@ a:active {
 	margin-top: 8px;
 }
 
+.liam-nolan {
+	margin-bottom: 2vh;
+}
+
+.liam-testimonial {
+	margin-bottom: 1vh;
+}
+
 .stringing-info ul {
 	list-style: circle;
 	margin-left: 20px;
 	font-size: 110%;
-	margin-bottom: 3vh;
+	margin-bottom: 2vh;
 }
 
 .stringing-info ul li:first-child {
