@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1129" height="193" viewBox="0 0 1129 193">
-  <g id="Darren_Withey_Logo_2" data-name="Darren Withey Logo 2" transform="translate(-193 -422)">
-    <text id="PROFESSIONAL_SQUASH_COACH" data-name="PROFESSIONAL SQUASH COACH" transform="translate(411 596)" fill="#c91900" font-size="53" font-family="Avenir-BlackOblique, Avenir" font-weight="800" font-style="oblique" letter-spacing="0.025em"><tspan x="0" y="0">PROFESSIONAL SQUASH COACH</tspan></text>
-    <text id="DARREN_WITHEY" data-name="DARREN WITHEY" transform="translate(411 532)" fill="#1a1a1a" font-size="110" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">DARREN WITHEY</tspan></text>
-    <g id="Group_2" data-name="Group 2" transform="translate(192.673 432.755)">
-      <circle id="Ellipse_1" data-name="Ellipse 1" cx="91" cy="91" r="91" transform="translate(0.327 0.245)" fill="#464646"/>
-      <path id="Intersection_1" data-name="Intersection 1" d="M0,58.381a92.356,92.356,0,0,1,2.8-22.65A90.7,90.7,0,0,1,74.954,0C125.237,0,166,41.019,166,91.619a92.351,92.351,0,0,1-2.8,22.649A90.7,90.7,0,0,1,91.046,150C40.763,150,0,108.981,0,58.381Z" transform="translate(16.327 0.245)" fill="#575757"/>
-      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0.327 0.245)" fill="none" stroke="#222" stroke-width="8">
-        <circle cx="91" cy="91" r="91" stroke="none"/>
-        <circle cx="91" cy="91" r="87" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1969" height="540" viewBox="0 0 1969 540">
+  <defs>
+    <clipPath id="clip-Artboard_6">
+      <rect width="1969" height="540"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_6" data-name="Artboard – 6" clip-path="url(#clip-Artboard_6)">
+    <g id="Darren_Withey_Logo_2" data-name="Darren Withey Logo 2" transform="translate(-14 -290)">
+      <text id="PROFESSIONAL_SQUASH_COACH" data-name="PROFESSIONAL SQUASH COACH" transform="translate(505 670)" fill="#c91900" font-size="75" font-family="Avenir-BlackOblique, Avenir" font-weight="800" font-style="oblique" letter-spacing="0.025em"><tspan x="0" y="0">PROFESSIONAL SQUASH COACH</tspan></text>
+      <text id="DARREN_WITHEY" data-name="DARREN WITHEY" transform="translate(505 579)" fill="#1a1a1a" font-size="157" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">DARREN WITHEY</tspan></text>
+      <g id="Group_2" data-name="Group 2" transform="translate(193 437.738)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="130" cy="130" r="130" transform="translate(0 0.262)" fill="#464646"/>
+        <path id="Intersection_1" data-name="Intersection 1" d="M0,83.679A132.871,132.871,0,0,1,4,51.215,129.314,129.314,0,0,1,107.013,0C178.8,0,237,58.794,237,131.321a132.863,132.863,0,0,1-4,32.463A129.315,129.315,0,0,1,129.987,215C58.2,215,0,156.206,0,83.679Z" transform="translate(23 0.262)" fill="#575757"/>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(0 0.262)" fill="none" stroke="#222" stroke-width="8">
+          <circle cx="130" cy="130" r="130" stroke="none"/>
+          <circle cx="130" cy="130" r="126" fill="none"/>
+        </g>
+        <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="10.907" cy="9.349" rx="10.907" ry="9.349" transform="translate(105.906 55.242) rotate(-34)" fill="#fff500"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(155 58.262)" fill="#fff500"/>
       </g>
-      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="7.623" cy="6.534" rx="7.623" ry="6.534" transform="translate(74.35 38.857) rotate(-34)" fill="#fff500"/>
-      <circle id="Ellipse_6" data-name="Ellipse 6" cx="8" cy="8" r="8" transform="translate(108.327 41.245)" fill="#fff500"/>
     </g>
   </g>
 </svg>
