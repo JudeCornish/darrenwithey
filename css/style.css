@@ -148,6 +148,8 @@ nav .btn {
 	line-height: 4vh;
 	transition: all 650ms;
 	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 .btn:active {
