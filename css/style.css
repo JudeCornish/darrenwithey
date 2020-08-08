@@ -1565,6 +1565,11 @@ footer a {
 	margin: 2vh auto;
 }
 
+.duty-logo img {
+	height: 80px;
+	margin: 2vh auto;
+}
+
 @media screen and (min-width: 850px) {
 	.footer-top {
 		padding: 0;
