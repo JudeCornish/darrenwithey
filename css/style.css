@@ -1523,6 +1523,13 @@ footer a {
 	margin-right: 10px;
 }
 
+.footer-top-top {
+	background-color: rgb(225, 225, 225);
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	width: 100%;
+}
+
 .footer-top {
 	width: 100%;
 	background-color: rgb(50, 50, 50);
@@ -1538,6 +1545,12 @@ footer a {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+}
+
+.footer-top-top-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
 }
 
 .salming-logo img {
