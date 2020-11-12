@@ -70,7 +70,7 @@ header {
 
 .container {
 	width: 100%;
-	max-width: 1400px;
+	max-width: 1500px;
 	margin: 0 auto;
 	padding-left: 1%;
 	padding-right: 1%;
@@ -101,7 +101,6 @@ nav a {
 
 .logo-container {
 	height: 8vh;
-	margin-right: 60px;
 	z-index: 999;
 	display: flex;
 	line-height: 8vh;
@@ -111,7 +110,7 @@ nav a {
 
 .logo-container img {
 	height: 8vh;
-	padding-right: 20px;
+	padding-right: 10px;
 }
 
 .nav-list {
