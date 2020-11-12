@@ -1747,3 +1747,9 @@ footer a {
 		color: white;
 	}
 }
+
+.exploring {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
