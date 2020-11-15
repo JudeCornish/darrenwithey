@@ -1567,6 +1567,11 @@ footer a {
 	margin: 2vh auto;
 }
 
+.teuton-logo img {
+	height: 50px;
+	margin: 2vh auto;
+}
+
 .epm-logo img {
 	height: 70px;
 	margin: 2vh auto;
@@ -1594,6 +1599,18 @@ footer a {
 
 	.footer-top-container {
 		flex-direction: row;
+	}
+
+	.harrow-logo {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+	}
+
+	.teuton-logo {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
 	}
 
 	.salming-logo {
