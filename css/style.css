@@ -376,6 +376,10 @@ li.move-right {
 	width: 100%;
 }
 
+#about img {
+	width: 100%;
+}
+
 #coaching-info {
 	background-color: rgb(255, 241, 241);
 }
