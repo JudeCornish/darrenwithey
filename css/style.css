@@ -282,12 +282,12 @@ li.move-right {
 
 @media screen and (min-width: 1250px) {
 	.landing-background {
-		right: -10%;
+		right: -5%;
 	}
 
 	.landing-background {
-		height: 130%;
-		width: 60%;
+		height: 120%;
+		width: 50%;
 	}
 
 	.quest-quote {
