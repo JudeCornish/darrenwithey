@@ -1565,7 +1565,8 @@ footer a {
 }
 
 .salming-logo img {
-	height: 25px;
+	height: 100%;
+	width: 120px;
 	margin: 2vh auto;
 }
 
