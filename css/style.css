@@ -33,6 +33,11 @@ body {
 	flex-direction: row;
 }	
 
+@media screen and (max-width: 800px) {
+	.achievements-image-row {
+		flex-direction: column;
+	}
+}
 
 body::after {
 	content: "";
