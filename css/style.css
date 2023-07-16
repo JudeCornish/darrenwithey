@@ -28,6 +28,12 @@ body {
 	}
 }
 
+.achievements-image-row {
+	display: flex;
+	flex-direction: row;
+}	
+
+
 body::after {
 	content: "";
 	display: block;
