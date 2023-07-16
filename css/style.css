@@ -33,6 +33,10 @@ body {
 	flex-direction: row;
 }	
 
+.achievements-image-row img {
+	object-fit: cover;
+}	
+
 @media screen and (max-width: 800px) {
 	.achievements-image-row {
 		flex-direction: column;
